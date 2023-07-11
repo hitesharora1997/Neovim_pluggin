@@ -19,7 +19,10 @@ Plug 'https://github.com/ap/vim-css-color' " CSS Color Preview
 Plug 'https://github.com/rafi/awesome-vim-colorschemes' " Retro Scheme
 Plug 'https://github.com/terryma/vim-multiple-cursors' " CTRL + N for multiple cursors
 Plug 'https://github.com/preservim/tagbar' " Tagbar for code navigation
-Plug 'https://github.com/neoclide/coc.nvim'  " Auto Completion
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+
+
 
 call plug#end()
 
