@@ -12,6 +12,8 @@ Best editor for fast coding.
 
 - curl
 - git
+- nodejs
+- exuberant-ctags
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
